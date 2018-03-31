@@ -1,0 +1,20 @@
+PODS:
+  - Blurry (0.0.5)
+  - Realm (3.0.1):
+    - Realm/Headers (= 3.0.1)
+  - Realm/Headers (3.0.1)
+  - RealmSwift (3.0.1):
+    - Realm (= 3.0.1)
+
+DEPENDENCIES:
+  - Blurry (~> 0.0.5)
+  - RealmSwift
+
+SPEC CHECKSUMS:
+  Blurry: 69e458964d7cbad359c4bd05ee1abdeb90df2106
+  Realm: ba6144c74f835f7497791f6599d63a7755377b83
+  RealmSwift: 7d13b1ac4b6022a13f841e3143e7789c9e40ad0d
+
+PODFILE CHECKSUM: 68a2407f4bfd194ecb60855951f263aabb562af1
+
+COCOAPODS: 1.3.1
